@@ -46,20 +46,12 @@
             <artifactId>mina-core</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-        </dependency>
-        <dependency>
             <groupId>org.quickfixj</groupId>
             <artifactId>quickfixj-core</artifactId>
         </dependency>
         <dependency>
             <groupId>org.quickfixj</groupId>
             <artifactId>quickfixj-messages-fix50sp2</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-aspects</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
