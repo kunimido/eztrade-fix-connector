@@ -11,11 +11,8 @@ import quickfix.MemoryStoreFactory;
 import quickfix.MessageFactory;
 import quickfix.MessageStoreFactory;
 import quickfix.SLF4JLogFactory;
-import quickfix.Session;
 import quickfix.SessionSettings;
 import quickfix.SocketInitiator;
-import quickfix.field.QuoteReqID;
-import quickfix.fix50sp2.QuoteRequest;
 
 public class FixConnectionIT {
     private static Initiator initiator;
